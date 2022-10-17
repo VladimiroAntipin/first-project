@@ -1,7 +1,0 @@
-.cards__item {
-  display: flex;
-  flex-direction: column;
-  flex-basis: 100px;
-  margin-top: 60px;
-  width: 250px;
-}
