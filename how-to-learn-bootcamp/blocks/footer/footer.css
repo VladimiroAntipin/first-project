@@ -2,9 +2,8 @@
   min-height: 350px;
   background-color: #1f1f1f;
   color: white;
-  align-items: center;
+  align-items: stretch;
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   position: relative;
 }

@@ -4,4 +4,9 @@
   left: 64px;
   width: 388px;
   z-index: 5;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
 }
